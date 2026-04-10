@@ -41,9 +41,9 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/Michael/foldcast"
-Repository = "https://github.com/Michael/foldcast"
-Issues = "https://github.com/Michael/foldcast/issues"
+Homepage = "https://github.com/mackelday/foldcast"
+Repository = "https://github.com/mackelday/foldcast"
+Issues = "https://github.com/mackelday/foldcast/issues"
 
 [tool.ruff]
 target-version = "py310"

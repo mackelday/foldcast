@@ -2,7 +2,7 @@
 
 Backtesting, comparison, and monitoring for production time series forecasts.
 
-[![CI](https://github.com/Michael/foldcast/actions/workflows/ci.yml/badge.svg)](https://github.com/Michael/foldcast/actions)
+[![CI](https://github.com/mackelday/foldcast/actions/workflows/ci.yml/badge.svg)](https://github.com/mackelday/foldcast/actions)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
