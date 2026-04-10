@@ -1,5 +1,9 @@
 # foldcast
 
+<p align="center">
+  <img src="assets/banner.png" alt="foldcast banner" width="100%">
+</p>
+
 Backtesting, comparison, and monitoring for production time series forecasts.
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
